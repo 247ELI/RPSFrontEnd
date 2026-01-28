@@ -24,7 +24,7 @@ let aTies = 0;
 // ----------------------- API Config ---------------------------------------------------------------------->
 // change this to our API endpoint that returns a random move as a string
 // example options your API could return "rock", "paper", "scissors"
-// create a variable to hod url 
+// create a variable to hod url
 const aCpuApiUrl = "https://rpsbackendeg-fpd5hbg2cmb9g4aj.westus3-01.azurewebsites.net/RPS/Moses"
 
 // ----------------------- DOM Reference ------------------------------------------------------------------->
